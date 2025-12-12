@@ -19,7 +19,6 @@ Pagination support
 Clean, production-ready code
 
 🏗️ Features
-
 Authors
 
 Create Author
